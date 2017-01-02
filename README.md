@@ -6,3 +6,7 @@ This is my first project on Github
 "Accept-Charset": "ISO-86567-1, utf-8",
 "Accept": "text/html,application/xhtml"
 }
+{
+"Myname": "arun",
+"Education": "bcom";
+}
